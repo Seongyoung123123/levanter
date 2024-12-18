@@ -18,7 +18,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "+923253980306"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -101,12 +101,12 @@
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
@@ -116,7 +116,7 @@
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
       "required": false,
-      "value": "null"
+      "value": "true"
     },
     "DISABLE_START_MESSAGE": {
       "description": "Disable start Message",
